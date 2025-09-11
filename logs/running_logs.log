@@ -81,3 +81,19 @@ x==========x
 [2025-09-11 22:43:26,678: INFO: main]: >>>>> stage Prepare Base Model completed <<<<<
 
 x==========x
+[2025-09-11 23:23:01,150: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-09-11 23:31:00,884: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 23:31:01,003: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 23:31:01,012: INFO: common]: created directory at: artifacts
+[2025-09-11 23:31:01,017: INFO: common]: created directory at: artifacts\training
+[2025-09-11 23:31:05,494: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+[2025-09-11 23:31:06,069: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+[2025-09-11 23:32:37,733: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 23:32:37,742: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 23:32:37,747: INFO: common]: created directory at: artifacts
+[2025-09-11 23:32:37,751: INFO: common]: created directory at: artifacts\training
+[2025-09-11 23:32:49,485: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
