@@ -1,0 +1,44 @@
+[2025-09-10 10:35:07,790: INFO: main]: Starting the Kidney Disease Classification Process
+[2025-09-11 02:03:07,787: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:03:07,814: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:03:07,820: INFO: common]: created directory at: artifacts
+[2025-09-11 02:03:07,825: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:03:07,831: INFO: 2711907137]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into : artifacts\data_ingestion\data.zip
+[2025-09-11 02:04:14,075: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:04:14,080: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:04:14,085: INFO: common]: created directory at: artifacts
+[2025-09-11 02:04:14,090: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:04:14,095: INFO: 4063180455]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into : artifacts\data_ingestion\data.zip
+[2025-09-11 02:07:51,588: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:07:51,593: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:07:51,597: INFO: common]: created directory at: artifacts
+[2025-09-11 02:07:51,602: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:07:51,610: INFO: 929615686]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into : artifacts\data_ingestion\data.zip
+[2025-09-11 02:09:33,299: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:09:33,303: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:09:33,307: INFO: common]: created directory at: artifacts
+[2025-09-11 02:09:33,312: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:09:33,316: INFO: 465443984]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file: artifacts\data_ingestion\data.zip
+[2025-09-11 02:12:24,157: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:12:24,161: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:12:24,164: INFO: common]: created directory at: artifacts
+[2025-09-11 02:12:24,168: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:12:24,172: INFO: 2597125963]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file: artifacts\data_ingestion\data.zip
+[2025-09-11 02:12:36,962: INFO: 2597125963]: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip
+[2025-09-11 02:30:20,013: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 02:30:20,017: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 02:30:20,020: INFO: common]: created directory at: artifacts
+[2025-09-11 02:30:20,024: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 02:30:20,027: INFO: 2597125963]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file: artifacts\data_ingestion\data.zip
+[2025-09-11 02:30:33,963: INFO: 2597125963]: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip
+[2025-09-11 19:55:47,463: INFO: main]: Starting the Kidney Disease Classification Process
+[2025-09-11 19:55:47,464: INFO: main]: >>>>> stage Data Ingestion Stage started <<<<<
+[2025-09-11 19:55:47,476: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 19:55:47,500: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 19:55:47,535: INFO: common]: created directory at: artifacts
+[2025-09-11 19:55:47,545: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 19:55:47,548: INFO: data_ingestion]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file: artifacts\data_ingestion\data.zip
+[2025-09-11 19:56:04,601: INFO: data_ingestion]: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip
+[2025-09-11 19:56:21,130: INFO: main]: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x

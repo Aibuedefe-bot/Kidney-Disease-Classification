@@ -1,17 +1,17 @@
-tensor-flow==2.12.0
+tensorflow==2.15.0   # or tensorflow==2.15.0 if on Python 3.12+
 pandas
 dvc
-mlflow=2.2.2
+mlflow==2.11.3
 notebook
 numpy
 matplotlib
 seaborn
-python-box=6.0.2
-pyYAML
+python-box==7.0.1
+PyYAML
 tqdm
-ensure=1.0.2
+ensure==1.0.2
 joblib
-types-pyYAML
+types-PyYAML
 scipy
 Flask
 Flask-Cors
