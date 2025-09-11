@@ -35,7 +35,7 @@ Kidney-Disease-Classification/
 │   │   ├── entity/           # Data entities
 │   │   ├── pipeline/         # Training & evaluation pipelines
 │   │   └── utils/            # Utility functions
-│   └── cnnClassifier.egg-info/ # Package metadata
+│   └── cnnClassifer.egg-info/ # Package metadata
 └── templates/
 ├── index.html            # HTML template
 └── index.htmltest.py     # Test HTML template

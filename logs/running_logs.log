@@ -42,3 +42,42 @@
 [2025-09-11 19:56:21,130: INFO: main]: >>>>> stage Data Ingestion Stage completed <<<<<
 
 x==========x
+[2025-09-11 22:24:34,571: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-09-11 22:28:35,276: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 22:28:35,289: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 22:28:35,295: INFO: common]: created directory at: artifacts
+[2025-09-11 22:28:35,300: INFO: common]: created directory at: artifacts/prepare_base_model
+[2025-09-11 22:28:37,449: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+[2025-09-11 22:28:38,340: WARNING: module_wrapper]: From c:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+[2025-09-11 22:28:40,283: WARNING: saving_utils]: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-11 22:42:44,255: WARNING: module_wrapper]: From C:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-09-11 22:42:50,209: INFO: main]: Starting the Kidney Disease Classification Process
+[2025-09-11 22:42:50,217: INFO: main]: >>>>> stage Data Ingestion Stage started <<<<<
+[2025-09-11 22:42:50,231: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 22:42:50,242: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 22:42:50,252: INFO: common]: created directory at: artifacts
+[2025-09-11 22:42:50,256: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-09-11 22:42:50,259: INFO: data_ingestion]: Downloading file from : https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file: artifacts\data_ingestion\data.zip
+[2025-09-11 22:43:08,973: INFO: data_ingestion]: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip
+[2025-09-11 22:43:21,009: INFO: main]: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x
+[2025-09-11 22:43:21,037: INFO: main]: >>>>> stage Prepare Base Model started <<<<<
+[2025-09-11 22:43:21,053: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-11 22:43:21,159: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-11 22:43:21,361: INFO: common]: created directory at: artifacts
+[2025-09-11 22:43:21,415: INFO: common]: created directory at: artifacts/prepare_base_model
+[2025-09-11 22:43:21,477: INFO: stage_02_prepare_base_model]: Getting the base model
+[2025-09-11 22:43:23,060: WARNING: module_wrapper]: From C:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+[2025-09-11 22:43:23,415: WARNING: module_wrapper]: From C:\Users\edecr\Downloads\mlfow_projects\kidney\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+[2025-09-11 22:43:25,182: WARNING: saving_utils]: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-11 22:43:25,487: INFO: stage_02_prepare_base_model]: Updating the base model
+[2025-09-11 22:43:26,678: INFO: main]: >>>>> stage Prepare Base Model completed <<<<<
+
+x==========x
